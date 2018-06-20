@@ -4,7 +4,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>hugosandell</groupId>
+	<name>Bibliotech</name>
+	<description>Library Management Software</description>
+	
+	<groupId>hugosandell.bibliotech</groupId>
 	<artifactId>bibliotech</artifactId>
 	<version>0.0.0</version>
 	<packaging>jar</packaging>
